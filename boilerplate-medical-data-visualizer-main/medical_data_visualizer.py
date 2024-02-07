@@ -5,7 +5,7 @@ import numpy as np
 
 # Import data
 df = pd.read_csv(
-    r"C:\Users\Jonathan Taylor\Jupyter Lab\boilerplate-medical-data-visualizer-main\boilerplate-medical-data-visualizer-main\medical_examination.csv"
+    "medical_examination.csv"
 )
 
 # Add 'overweight' column
